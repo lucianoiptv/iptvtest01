@@ -1,1 +1,55 @@
-http://dns.p2.wtf/get.php?username=BuPqxkrDP7&password=ErfpNUyEb5&type=m3u_plus&output=ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="360 TUNE BOX FHD H264" tvg-logo="http://dns.ulttv.xyz/i/360tunebox.png" group-title="VARIEDADES",360 TUNE BOX FHD H264
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/139495
+#EXTINF:-1 tvg-id="" tvg-name="A VIDA MODERNA DE ROCKO" tvg-logo="http://dns.ulttv.xyz/i/plutotv.png" group-title="PLUTO TV",A VIDA MODERNA DE ROCKO
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/119250
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD H264" tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES",A&E FHD H264
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/139547
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD H265" tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES",A&E FHD H265
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/68834
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD²" tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES",A&E FHD²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/144373
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES",A&E HD
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/68835
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD²" tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES",A&E HD²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/144374
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E SD" tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES",A&E SD
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/68836
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E²" tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES",A&E²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/144372
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL SD" tvg-logo="http://dns.ulttv.xyz/i/agrobrasil.png" group-title="VARIEDADES",AGRO BRASIL SD
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/75155
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO CANAL FHD H264" tvg-logo="http://dns.ulttv.xyz/i/agrocanal.png" group-title="ABERTOS",AGRO CANAL FHD H264
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/139583
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO+ FHD H264" tvg-logo="http://dns.ulttv.xyz/i/agromais.png" group-title="ABERTOS",AGRO+ FHD H264
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/139581
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC HD²" tvg-logo="http://dns.ulttv.xyz/i/aljazeera.png" group-title="NOTÍCIAS",AL JAZEERA ARABIC HD²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/144721
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ENGLISH HD²" tvg-logo="http://dns.ulttv.xyz/i/aljazeera.png" group-title="NOTÍCIAS",AL JAZEERA ENGLISH HD²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/144375
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD²" tvg-logo="http://dns.ulttv.xyz/i/allsports.png" group-title="ESPORTES PPV",ALL SPORTS HD²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/144376
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="FILMES & SÉRIES",AMC
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/74449
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD²" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="FILMES & SÉRIES",AMC FHD²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/144378
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="FILMES & SÉRIES",AMC HD
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/81158
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD²" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="FILMES & SÉRIES",AMC HD²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/84921
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD²" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="FILMES & SÉRIES",AMC HD²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/144379
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC²" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="FILMES & SÉRIES",AMC²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/144377
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET FHD H264" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD H264
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/139507
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD H265
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/68788
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET FHD²" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/144381
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/68789
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET HD²" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD²
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/144382
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET SD" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+http://dns.p2.wtf:80/BuPqxkrDP7/ErfpNUyEb5/68790
